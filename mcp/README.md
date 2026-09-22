@@ -31,4 +31,7 @@ AI에게 코딩을 시키지 않고, 미리 붙여 둔 도구로 외부 작업�
 
 ## 파일
 
-- [qa.md](qa.md) — 대화에서 나온 질문과 답변 정리
+- [qa.md](qa.md) — MCP 기본 개념 Q&A
+- [cursor-usage.md](cursor-usage.md) — Cursor 설치·Plugin·채팅 사용
+- [slack-setup.md](slack-setup.md) — Slack 원격 MCP, CLIENT_ID, 코드와 비교
+- [protocol-and-flow.md](protocol-and-flow.md) — 프로토콜(HTTPS), 메시지 흐름
