@@ -35,3 +35,4 @@ AI에게 코딩을 시키지 않고, 미리 붙여 둔 도구로 외부 작업�
 - [cursor-usage.md](cursor-usage.md) — Cursor 설치·Plugin·채팅 사용
 - [slack-setup.md](slack-setup.md) — Slack 원격 MCP, CLIENT_ID, 코드와 비교
 - [protocol-and-flow.md](protocol-and-flow.md) — 프로토콜(HTTPS), 메시지 흐름
+- [development-workflow.md](development-workflow.md) — 개발 과정에서 MCP 활용
