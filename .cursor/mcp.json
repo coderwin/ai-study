@@ -5,6 +5,14 @@
       "auth": {
         "CLIENT_ID": "3660753192626.8903469228982"
       }
+    },
+
+    "local-java": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "${workspaceFolder}/local-mcp-server/target/my-mcp-1.0.1.jar"
+      ]
     }
   }
 }
